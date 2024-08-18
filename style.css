@@ -1,0 +1,7 @@
+.red{height: 150px;
+    width: 200px;
+    color:blue;
+
+
+}
+body{background-color: linear-gradient(red blue);}
